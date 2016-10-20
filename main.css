@@ -1,0 +1,21 @@
+.container {
+    height: 3000;
+}
+.pic {
+    position: fixed;
+    height: 400;
+}
+
+.moss {
+    position: fixed;
+    opacity: .7;
+    height: 400;
+    width: 600;
+    background-color: green;
+    z-index: 1;
+}
+
+
+::-webkit-scrollbar { 
+    display: none; 
+}
